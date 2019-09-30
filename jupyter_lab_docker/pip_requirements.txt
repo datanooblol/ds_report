@@ -1,0 +1,7 @@
+# pip dependencies
+
+jupyterlab
+
+# mlflow
+# gekko
+# dask

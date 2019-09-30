@@ -1,0 +1,9 @@
+version: '3'
+services:
+  jupyter_lab:
+    build:
+      context: ./jupyter_lab_docker
+    ports:
+      - "8889:8889"
+    volumes: 
+      - ./ds_report:/usr/src

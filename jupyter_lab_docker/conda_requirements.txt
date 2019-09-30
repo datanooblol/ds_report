@@ -1,0 +1,8 @@
+# conda dependencies
+
+jupyter
+seaborn
+matplotlib
+# networkx
+# sympy
+scikit-learn
