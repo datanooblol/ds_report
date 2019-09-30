@@ -11,5 +11,5 @@ setup(name='ds_report',
       install_requires=[
           'numpy',
           'pandas'
-        ],
+          ],
       zip_safe=False)
